@@ -3,8 +3,7 @@
  * Author: Mihai Udrea
  * Date: 09-11-2017
  * Desc:
- * Copyright: University of West of England 2017
- */
+ * */
 #include <stdio.h>
 #include <iostream>
 #include <string>
