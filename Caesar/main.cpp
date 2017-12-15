@@ -3,7 +3,7 @@
  * Author: Mihai Udrea
  * Date: 18-10-2017
  * Desc:
- * Copyright: University of West of England 2017
+ * Copyright: 
  */
 #include <stdio.h>
 #include <string>
@@ -12,10 +12,6 @@
 // include the UFCFGL301's standard library
 #include <ufcfgl-30-1.h>
 
-// uncomment if you want to use the graphics library
-//#include <graphics.h>
-
-using namespace uwe;
 
 /**
  * main routine, implements ...
