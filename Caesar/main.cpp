@@ -2,7 +2,10 @@
  * File: main.cpp
  * Author: Mihai Udrea
  * Date: 18-10-2017
- * Desc:
+ * Desc: Implement a program, caesar, that requests a message to be encoded, using a type of substitution cypher named after Julius Caesar, as per below.
+$ ./caesar 12
+   enter message: HELLO
+   cipher: TQXXA
  * Copyright: 
  */
 #include <stdio.h>
